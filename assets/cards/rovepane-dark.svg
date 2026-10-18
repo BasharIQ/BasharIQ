@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="250" viewBox="0 0 260 250">
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" text-anchor="middle">
+<image x="94.0" y="0" width="72" height="72" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxMjAiIGZpbGw9IiMwRjE3MkEiLz4KICA8cmVjdCB4PSIxMDgiIHk9IjExOCIgd2lkdGg9IjE4OCIgaGVpZ2h0PSIxNzYiIHJ4PSIzMCIgZmlsbD0iIzFENEVEOCIvPgogIDxyZWN0IHg9IjEwOCIgeT0iMTE4IiB3aWR0aD0iMTg4IiBoZWlnaHQ9IjE3NiIgcng9IjMwIiBzdHJva2U9IiM5M0M1RkQiIHN0cm9rZS13aWR0aD0iMTYiLz4KICA8cGF0aCBkPSJNMTA4IDE2NkgyOTYiIHN0cm9rZT0iI0RCRUFGRSIgc3Ryb2tlLXdpZHRoPSIxNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHJlY3QgeD0iMjE2IiB5PSIyMTgiIHdpZHRoPSIxODgiIGhlaWdodD0iMTc2IiByeD0iMzAiIGZpbGw9IiMxNEI4QTYiLz4KICA8cmVjdCB4PSIyMTYiIHk9IjIxOCIgd2lkdGg9IjE4OCIgaGVpZ2h0PSIxNzYiIHJ4PSIzMCIgc3Ryb2tlPSIjQ0NGQkYxIiBzdHJva2Utd2lkdGg9IjE2Ii8+CiAgPHBhdGggZD0iTTIxNiAyNjZINDA0IiBzdHJva2U9IiNGMEZERkEiIHN0cm9rZS13aWR0aD0iMTQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik0yODIgMzM0QzMxOCAzMzQgMzQ2IDMwNyAzNDYgMjcyIiBzdHJva2U9IiNGOEZBRkMiIHN0cm9rZS13aWR0aD0iMjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik0zMjIgMjQ0TDM0NiAyNzJMMzc0IDI0NCIgc3Ryb2tlPSIjRjhGQUZDIiBzdHJva2Utd2lkdGg9IjI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg=="/>
+<text x="130.0" y="100" font-size="16" font-weight="600" fill="#4493f8">Rovepane</text>
+<text x="130.0" y="122" font-size="12" fill="#9198a1">Windows · C#</text>
+<text x="130.0" y="158" font-size="14" fill="#f0f6fc">A tray app for virtual desktops.</text>
+<text x="130.0" y="178" font-size="14" fill="#f0f6fc">Switch desktops, move windows</text>
+<text x="130.0" y="198" font-size="14" fill="#f0f6fc">between them, and bind global</text>
+<text x="130.0" y="218" font-size="14" fill="#f0f6fc">hotkeys.</text>
+</g>
+</svg>

@@ -10,25 +10,11 @@ I build the tools I wish someone else had made.
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="260">
-<a href="https://github.com/BasharIQ/argus"><img src="assets/argus.png" width="72" alt="Argus icon"><br><b>Argus</b></a><br>
-<sub>macOS · Swift</sub><br><br>
-A menu bar app that shows your Claude Code, Codex, OpenCode, and Pi sessions, which ones need you, and what they cost.
-</td>
-<td align="center" valign="top" width="260">
-<a href="https://github.com/BasharIQ/HaloLight"><img src="assets/halolight.png" width="72" alt="HaloLight icon"><br><b>HaloLight</b></a><br>
-<sub>Windows · C#</sub><br><br>
-A virtual ring light. Your screen glows to light your face on video calls and streams.
-</td>
-<td align="center" valign="top" width="260">
-<a href="https://github.com/BasharIQ/Rovepane"><img src="assets/rovepane.svg" width="72" alt="Rovepane icon"><br><b>Rovepane</b></a><br>
-<sub>Windows · C#</sub><br><br>
-A tray app for virtual desktops. Switch desktops, move windows between them, and bind global hotkeys.
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/BasharIQ/argus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/argus-dark.svg"><img src="assets/cards/argus-light.svg" width="260" alt="Argus: a macOS menu bar app that tracks Claude Code, Codex, OpenCode, and Pi sessions"></picture></a>
+<a href="https://github.com/BasharIQ/HaloLight"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/halolight-dark.svg"><img src="assets/cards/halolight-light.svg" width="260" alt="HaloLight: a virtual ring light for Windows"></picture></a>
+<a href="https://github.com/BasharIQ/Rovepane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/rovepane-dark.svg"><img src="assets/cards/rovepane-light.svg" width="260" alt="Rovepane: a Windows tray app for virtual desktops"></picture></a>
+</p>
 
 <br>
 
